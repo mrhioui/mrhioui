@@ -49,9 +49,9 @@
 
 ## 📫 Connect With Me
 
-- 📧 [your.email@example.com]  
-- 🌐 [your-portfolio.com]  
-- 💼 [LinkedIn Profile]  
+- 📧 [mohamedrhioui82@gmail.com]  
+<!--- 🌐 [your-portfolio.com] -->
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-rhioui-831984218/)
 
 > "Code is the tool. Curiosity is the engine." 🚀
 
