@@ -19,7 +19,7 @@
 
 ## 🔧 Technologies I Use
 
-`Go` | `Python` | `JavaScript` | `HTML/CSS` | `SQLite` | `Docker` | `Git` | `Bash` | `ReatJS` | `Laravel`
+`Go` | `JavaScript` | `HTML/CSS` | `SQLite` | `Docker` | `Git` | `Bash` | `ReatJS` | `Laravel`
 
 ---
 
