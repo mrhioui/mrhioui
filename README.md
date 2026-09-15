@@ -62,16 +62,10 @@
 
 ## ⚡️ Where to find me
 
-<p>
-<a target="_blank" href="https://dev.to/mrhioui" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-   
+<p><a target="_blank" href="https://dev.to/mrhioui" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/mohamed-rhioui" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
-   
 <a target="_blank" href="undefined@mrhioui" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
-
-<a target="_blank" href="mailto:YOUR_EMAIL@example.com" style="display: inline-block;"> <img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="gmail" /> </a>
-</p>
-
+<a target="_blank" href="mailto:YOUR_EMAIL@example.com" style="display: inline-block;"> <img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="gmail" /> </a></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrhioui&" alt="mrhioui" /></p>
  
