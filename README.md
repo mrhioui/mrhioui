@@ -1,6 +1,6 @@
 # 👋 Hey, I'm [Mohamed Rhioui](https://www.linkedin.com/in/mohamed-rhioui-831984218/)
 
-🎓 Web Developer && Talent at [Zone01 Oujda](https://zone01oujda.ma)  
+🎓 Full-stack Developer && Talent at [Zone01 Oujda](https://zone01oujda.ma)
 🛠️ Passionate about solving real-world problems through code 
 🌍 Passionate about building clean, efficient, and user-friendly web experiences
 🚀 Always exploring new technologies and improving my skills
@@ -8,17 +8,16 @@
 ---
 
 ## 💫 About Me:
-🔭 I’m currently working on A 0-shell project using Rust.
 
-👯 I’m looking to collaborate on Open-source projects related to web development, real-time apps, and JavaScript/Go.
+👯 I’m looking to collaborate on open-source projects focused on full-stack development and backend engineering.
 
-🤝 I’m looking for help with Improving scalability, authentication, and WebSocket architecture in full-stack applications.
+🤝 I’m looking to improve my skills in scalable backend architecture, authentication, real-time communication, and distributed systems.
 
-🌱 I’m currently learning Advanced Go backend patterns, database optimization, Docker orchestration, and Next.js performance techniques.
+🌱 I’m currently learning **Java & Spring Boot**, advanced **Go** backend patterns, database optimization, Docker, and modern frontend architecture with **React, Next.js, and Angular**.
 
-💬 Ask me about Web development, JavaScript, Go, real-time communication, optimization, DOM-based games, or anything tech-related!
+💬 Ask me about **Java, Spring Boot, Go, JavaScript, TypeScript, React, Next.js, Angular, PostgreSQL, Docker, REST APIs, WebSockets, or backend architecture**.
 
-⚡ Fun fact I love building challenging projects from scratch — even games — using pure JavaScript without canvas or frameworks.
+⚡ Fun fact: I enjoy building challenging projects from scratch to understand how things work under the hood, from web applications and APIs to games built with pure JavaScript.
 
 ---
 
@@ -27,8 +26,7 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mrhioui&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 # 📊 GitHub Stats:
@@ -62,7 +60,14 @@
 
 ---
 
-## 📫 Connect With Me
+## ⚡️ Where to find me
+
+<p><a target="_blank" href="https://dev.to/mrhioui" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/mohamed-rhioui" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
+<a target="_blank" href="undefined@mrhioui" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhioui&show_icons=true&locale=en" alt="mrhioui" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrhioui&" alt="mrhioui" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrhioui&show_icons=true&locale=en&layout=compact" alt="mrhioui" /></p>
 
 - 📧 [mohamedrhioui82@gmail.com]  
 <!--- 🌐 [your-portfolio.com] -->
